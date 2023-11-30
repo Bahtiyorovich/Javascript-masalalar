@@ -179,20 +179,21 @@
 
 // console.log(hisoblash(x))
 
-let y = 87
-function hisoblash(a) {
-  let birlar = a % 10
-  let onlar = (a - birlar) / 10
-  let result = birlar + '' + onlar
-  return result
-}
+// let y = 87
+// function hisoblash(a) {
+//   let birlar = a % 10
+//   let onlar = (a - birlar) / 10
+//   let result = birlar + '' + onlar
+//   return result
+// }
 
-console.log(hisoblash(y))
+// console.log(hisoblash(y))
 
+// 6 - masala
 
-
-
-
+// const data = [35, 74, 10, 9, 11, 26, 3, 18, 26, 25]
+// let res = data.find(item => item < data[data.length - 1])
+// console.log(res)
 
 
 
